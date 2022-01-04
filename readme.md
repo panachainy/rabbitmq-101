@@ -28,3 +28,7 @@ go run consumer/consumer.go
 ```sh
 go run sendMessage/sendMessage.go
 ```
+
+## REF
+
+https://x-team.com/blog/set-up-rabbitmq-with-docker-compose/
